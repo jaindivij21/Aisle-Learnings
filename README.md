@@ -29,3 +29,6 @@ Sales tax is rounded up to the nearest 0.05 as per requirements.
 3. Making the Script Executable
   - Give Permissions to the Executable: `chmod +x bin/main`
   - Run the Script: `./bin/main.rb`
+
+### CLI Working Screenshot
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/e8d959b0-14fa-40e6-8a15-ef0fcde28977" />
