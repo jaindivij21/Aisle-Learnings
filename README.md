@@ -30,5 +30,8 @@ Sales tax is rounded up to the nearest 0.05 as per requirements.
   - Give Permissions to the Executable: `chmod +x bin/main`
   - Run the Script: `./bin/main.rb`
 
+## Running Tests
+To run the test suite, use the following command: `rspec spec/ --format documentation`
+
 ### CLI Working Screenshot
 <img width="557" alt="image" src="https://github.com/user-attachments/assets/e8d959b0-14fa-40e6-8a15-ef0fcde28977" />

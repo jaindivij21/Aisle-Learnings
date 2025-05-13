@@ -19,7 +19,7 @@ module Checkout
     def calculate
       raw_tax = item.price * tax_rate
 
-      round_tax(raw_tax) * item.quantity
+      ((round_tax(raw_tax)) * item.quantity).round(2)
     end
 
     private

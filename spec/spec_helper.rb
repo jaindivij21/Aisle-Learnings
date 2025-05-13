@@ -1,0 +1,5 @@
+require 'rspec'
+require_relative '../lib/checkout/item.rb'
+require_relative '../lib/checkout/parser.rb'
+require_relative '../lib/checkout/receipt.rb'
+require_relative '../lib/checkout/tax_calculator.rb'
