@@ -13,3 +13,19 @@ Sales tax is rounded up to the nearest 0.05 as per requirements.
 - Input parsing from raw strings
 - CLI tool for generating receipts
 - RSpec test suite
+
+## Prerequisites
+
+- Ruby 2.7.8
+- `rspec` and `yaml` gems (included in the `Gemfile`).
+
+## Project Setup
+
+1. **Install Dependencies**:
+   First, setup ruby and install the required gems using Bundler: `bundle install`
+
+2. **YAML Configuration File**:
+    The application uses a YAML configuration file to define tax rates and exemptions. `lib/checkout/constants/exempt_items.yaml`
+3. Making the Script Executable
+  - Give Permissions to the Executable: `chmod +x bin/main`
+  - Run the Script: `./bin/main.rb`
