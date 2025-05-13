@@ -1,0 +1,45 @@
+books:
+  - book
+  - books
+  - novel
+  - textbook
+  - magazine
+  - journal
+  - paperback
+  - hardcover
+  - ebook
+  - literature
+food:
+  - chocolate
+  - chocolates
+  - bar
+  - food
+  - groceries
+  - candy
+  - fruit
+  - vegetable
+  - bread
+  - milk
+  - egg
+  - eggs
+  - cereal
+  - pasta
+  - rice
+  - snack
+  - beverage
+  - juice
+pharmaceuticals:
+  - pill
+  - pills
+  - medicine
+  - pharmaceuticals
+  - medication
+  - drug
+  - bandage
+  - syrup
+  - tablet
+  - capsule
+  - ointment
+  - cream
+  - vitamin
+  - supplement
